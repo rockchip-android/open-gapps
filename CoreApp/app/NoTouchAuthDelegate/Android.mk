@@ -1,0 +1,12 @@
+LOCAL_PATH:= $(call my-dir)
+
+include $(CLEAR_VARS)
+
+LOCAL_MODULE := NoTouchAuthDelegate
+LOCAL_MODULE_CLASS := APPS
+LOCAL_PROGUARD_ENABLED := disabled
+LOCAL_MODULE_TAGS := optional
+LOCAL_SRC_FILES := NoTouchAuthDelegate.apk
+LOCAL_CERTIFICATE := PRESIGNED
+
+include $(BUILD_PREBUILT)
