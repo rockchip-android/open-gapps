@@ -11,7 +11,8 @@ PRODUCT_PACKAGES += \
     GoogleExtServices \
     GoogleServicesFramework \
     PrebuiltGmsCorePano \
-    Phonesky
+    Phonesky \
+    YouTubeLeanback
 
 ### etc
 PRODUCT_PACKAGES += \
