@@ -26,7 +26,6 @@ PRODUCT_PACKAGES := \
     LeanbackIme \
     NoTouchAuthDelegate \
     PrebuiltGmsCorePano \
-    SetupWraith \
     talkback \
     Tubesky \
     WebViewGoogle \
